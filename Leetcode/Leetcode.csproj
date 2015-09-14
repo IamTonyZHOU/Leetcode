@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="UglyNumberI.cs" />
     <Compile Include="AddBinary.cs" />
     <Compile Include="BinaryTreeInorderTraversal.cs" />
     <Compile Include="ImplementstrStr%28%29.cs" />

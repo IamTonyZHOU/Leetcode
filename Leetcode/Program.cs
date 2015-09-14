@@ -10,6 +10,9 @@ namespace Leetcode
     {
         static void Main(string[] args)
         {
+            Solution s = new Solution();
+            Console.WriteLine(s.IsUgly(14));
+            Console.ReadKey();
         }
     }
 }
