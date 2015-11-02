@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Deque.cs" />
+    <Compile Include="ProductExceptSelf.cs" />
+    <Compile Include="UglyNumberII.cs" />
     <Compile Include="UglyNumberI.cs" />
     <Compile Include="AddBinary.cs" />
     <Compile Include="BinaryTreeInorderTraversal.cs" />
